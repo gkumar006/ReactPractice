@@ -7,6 +7,7 @@ const TodoListApp = ()=>{
         name: "Goutam"
     }])
 
+    // eslint-disable-next-line
     const [inputValue, setInputValue] = useState('');
 
     return (
